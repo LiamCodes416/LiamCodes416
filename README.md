@@ -9,6 +9,7 @@ I'm a student software developer and FRC Lead Programmer focused on robotics, sy
 - Java
 - Python
 - C
+- C#
 - GDScript
 
 ## Current Projects
