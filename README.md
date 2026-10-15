@@ -1,6 +1,6 @@
 # Hi, I'm Liam
 
-Lead Programmer for FRC Team 2557.
+Assistant Lead Programmer for FRC Team 2557.
 
 I'm a student software developer and FRC Lead Programmer focused on robotics, systems programming, and game development. I build software in Java, Python, Rust, C, and GDScript, with a particular interest in making complex systems easier to use.
 
